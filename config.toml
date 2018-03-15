@@ -2,6 +2,7 @@ baseurl = "https://ouardi.github.io/"  # End your URL with a `/` trailing slash,
 title = "my Home page"
 copyright = "&copy; 2017 Faissal Ouardi"
 theme = "academic"
+publishDir="docs"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
