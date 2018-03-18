@@ -22,9 +22,9 @@ weight = 5
   year = 2007
 
 [[education.courses]]
-  course = "Doctorat en Informatique"
+  course = "DEA Informatique Théorique et Appliquée"
   institution = "Université de Rouen, France"
-  year = 2007
+  year = 2002
 
 +++
 
