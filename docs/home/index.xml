@@ -2,86 +2,86 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on my Home page</title>
-    <link>https://ouardifaissal.github.io/ouardi.github.io/home/</link>
+    <link>https://ouardifaissal.github.io/homepage/./home/</link>
     <description>Recent content in Homes on my Home page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Faissal Ouardi</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://ouardifaissal.github.io/ouardi.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ouardifaissal.github.io/homepage/./home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Academic</title>
-      <link>https://ouardifaissal.github.io/ouardi.github.io/home/hero/</link>
+      <link>https://ouardifaissal.github.io/homepage/./home/hero/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://ouardifaissal.github.io/ouardi.github.io/home/hero/</guid>
+      <guid>https://ouardifaissal.github.io/homepage/./home/hero/</guid>
       <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release  
 (function defer() { if (window.jQuery) { jQuery(document).ready(function(){ GetLatestReleaseInfo(); }); } else { setTimeout(function() { defer() }, 50); } })(); function GetLatestReleaseInfo() { $.getJSON(&#39;https://api.github.com/repos/gcushen/hugo-academic/tags&#39;).done(function (json) { let release = json[0]; // let downloadURL = release.zipball_url; $(&#39;#academic-release&#39;).text(&#39;Latest release &#39; + release.name); }); }  </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://ouardifaissal.github.io/ouardi.github.io/home/about/</link>
+      <link>https://ouardifaissal.github.io/homepage/./home/about/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ouardifaissal.github.io/ouardi.github.io/home/about/</guid>
+      <guid>https://ouardifaissal.github.io/homepage/./home/about/</guid>
       <description>Biography Professor of Computer Science (2009-today) at Mohammed V university in Rabat, Morocco. Faissal Ouardi holds a M.Sc. degree in Computer Science (&amp;lsquo;02) and a PhD. in Computer Science (&amp;lsquo;07) from University of Rouen, France. He was ATER (&amp;lsquo;06,&amp;lsquo;07) in the Department of computer Science, University of Rouen, and a CNRS postdoctoral researcher (&amp;lsquo;08) at LIF laboratory, Aix-Marseille University , France. His main research interests include: formal languages and automata theory, algorithm design, information retrieval, efficient text searching methods and grammatical inference.</description>
     </item>
     
     <item>
       <title>Selected Publications</title>
-      <link>https://ouardifaissal.github.io/ouardi.github.io/home/publications_selected/</link>
+      <link>https://ouardifaissal.github.io/homepage/./home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://ouardifaissal.github.io/ouardi.github.io/home/publications_selected/</guid>
+      <guid>https://ouardifaissal.github.io/homepage/./home/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Recent Publications</title>
-      <link>https://ouardifaissal.github.io/ouardi.github.io/home/publications/</link>
+      <title>Publications</title>
+      <link>https://ouardifaissal.github.io/homepage/./home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://ouardifaissal.github.io/ouardi.github.io/home/publications/</guid>
+      <guid>https://ouardifaissal.github.io/homepage/./home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://ouardifaissal.github.io/ouardi.github.io/home/talks/</link>
+      <link>https://ouardifaissal.github.io/homepage/./home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://ouardifaissal.github.io/ouardi.github.io/home/talks/</guid>
+      <guid>https://ouardifaissal.github.io/homepage/./home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>https://ouardifaissal.github.io/ouardi.github.io/home/posts/</link>
+      <link>https://ouardifaissal.github.io/homepage/./home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://ouardifaissal.github.io/ouardi.github.io/home/posts/</guid>
+      <guid>https://ouardifaissal.github.io/homepage/./home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://ouardifaissal.github.io/ouardi.github.io/home/projects/</link>
+      <link>https://ouardifaissal.github.io/homepage/./home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://ouardifaissal.github.io/ouardi.github.io/home/projects/</guid>
+      <guid>https://ouardifaissal.github.io/homepage/./home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>https://ouardifaissal.github.io/ouardi.github.io/home/teaching/</link>
+      <link>https://ouardifaissal.github.io/homepage/./home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://ouardifaissal.github.io/ouardi.github.io/home/teaching/</guid>
+      <guid>https://ouardifaissal.github.io/homepage/./home/teaching/</guid>
       <description>This is an example of using the custom widget to create your own homepage section.
 I am a teaching instructor for the following courses at University X:
  CS101: An intro to computer science CS102: An intro to computer science CS103: An intro to computer science CS104: An intro to computer science CS105: An intro to computer science CS106: An intro to computer science CS107: An intro to computer science  </description>
@@ -89,19 +89,19 @@ I am a teaching instructor for the following courses at University X:
     
     <item>
       <title>Tags</title>
-      <link>https://ouardifaissal.github.io/ouardi.github.io/home/tags/</link>
+      <link>https://ouardifaissal.github.io/homepage/./home/tags/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://ouardifaissal.github.io/ouardi.github.io/home/tags/</guid>
+      <guid>https://ouardifaissal.github.io/homepage/./home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://ouardifaissal.github.io/ouardi.github.io/home/contact/</link>
+      <link>https://ouardifaissal.github.io/homepage/./home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://ouardifaissal.github.io/ouardi.github.io/home/contact/</guid>
+      <guid>https://ouardifaissal.github.io/homepage/./home/contact/</guid>
       <description></description>
     </item>
     
