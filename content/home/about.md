@@ -11,7 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Artificial Intelligence",
-    "Computational Linguistics",
+    "Computational Linguistics", "Bioinformatics",
     "Information Retrieval"
   ]
 

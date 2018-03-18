@@ -1,4 +1,4 @@
-baseurl = "https://ouardifaissal.github.io/ouardi.github.io/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+baseurl = "/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 title = "my Home page"
 copyright = "&copy; 2017 Faissal Ouardi"
 theme = "academic"
@@ -239,7 +239,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications_selected"
+  url = "#publications"
   weight = 2
 
 [[menu.main]]
