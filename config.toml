@@ -48,7 +48,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "Université Mohammed V de Rabat", url = "http://www.um5.ac.ma/um5r/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "Faissal.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "Faissal.jpeg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "ouardi.faissal@gmail.Com"
   address = "Département d'informatique, Faculté des sciences, Université Mohammed V de Rabat, Maroc."
  # office_hours = "Monday 10:00 to 13:00 or email for appointment"
